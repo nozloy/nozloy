@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Almir Sadykoff</h1>
+<h1 align="center">Hi 👋, I'm Potato Awawa</h1>
 <h3 align="center">A'm web-developer, electronics engeneer</h3>
 
 - 🌱 I’m currently learning **Kafka and Kubernetes**
